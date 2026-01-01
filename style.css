@@ -1,0 +1,39 @@
+
+.root {
+    -fx-background-color: #F1F8E9;
+    -fx-font-family: "Segoe UI";
+}
+
+.city-title {
+    -fx-font-size: 24px;
+    -fx-text-fill: #2E7D32;
+    -fx-font-weight: bold;
+}
+
+.temperature {
+    -fx-font-size: 48px;
+    -fx-text-fill: #1B5E20;
+}
+
+.condition {
+    -fx-font-size: 16px;
+}
+
+.info-text {
+    -fx-text-fill: #33691E;
+}
+
+.tip-text {
+    -fx-text-fill: #558B2F;
+    -fx-font-style: italic;
+}
+
+.leaf {
+    -fx-fill: #66BB6A;
+}
+
+.forecast-card {
+    -fx-background-color: #C8E6C9;
+    -fx-padding: 10;
+    -fx-background-radius: 8;
+}
